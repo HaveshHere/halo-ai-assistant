@@ -1,0 +1,5 @@
+# Streamlit powers the UI.
+streamlit>=1.64,<2.0
+# Optional: only needed to run/build the desktop window wrapper (desktop/).
+pywebview>=4.4,<5.0
+pyinstaller>=6.0,<7.0

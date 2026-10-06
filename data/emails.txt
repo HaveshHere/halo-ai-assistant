@@ -1,0 +1,23 @@
+From: mentor@example.com
+Subject: Backend API architecture
+Body: Please review the API diagram before our sync.
+
+From: manager@example.com
+Subject: Weekly engineering sync
+Body: Bring your questions about onboarding and project priorities.
+
+From: hr@example.com
+Subject: Onboarding checklist
+Body: Complete your onboarding checklist by Friday.
+
+From: reviewer@example.com
+Subject: API pagination pull request
+Body: Please check the edge cases for empty and multi-page responses.
+
+From: qa@example.com
+Subject: Staging timeout reproduction
+Body: The timeout happened twice during the latest test run. I added the steps to the ticket.
+
+From: mentor@example.com
+Subject: Demo outline
+Body: Keep the demo focused on the user workflow and the local sample data.

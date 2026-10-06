@@ -1,0 +1,11 @@
+Review onboarding checklist by Friday
+Ask mentor about the backend API architecture
+Read the team coding standards document
+Prepare questions for the weekly engineering sync
+Set up local development environment
+Review pull request for API pagination
+Add unit tests for request validation
+Document the local build and test workflow
+Investigate intermittent timeout in the staging environment
+Compare two approaches for caching reference data
+Prepare a short demo of the task-prioritization flow

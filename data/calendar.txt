@@ -1,0 +1,7 @@
+09:00 - Daily engineering standup
+10:15 - QA handoff for the next build
+11:30 - Mentor check-in about backend API architecture
+13:00 - Code review: pagination changes
+14:00 - Focus block: validation tests
+15:00 - Weekly engineering sync
+16:00 - Demo planning with the project team
